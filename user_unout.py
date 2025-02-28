@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+age = int(input("How old are you? "))
+location = input("Where are you from?")
+parent = input("Please state the first name of your mother")
+print(f"Hello, {name}! You are {age} years old and you come from {location}. Your mother's first name is {parent}")
